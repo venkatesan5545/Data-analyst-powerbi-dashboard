@@ -2,6 +2,8 @@
 
 This Power BI dashboard provides a comprehensive analysis of call centre performance metrics. It helps monitor operational efficiency, representative performance, customer satisfaction, and purchase trends through interactive visualizations.
 
+Dashboard:github.com/venkatesan5545/Data-analyst-powerbi-dashboard/blob/main/call%20center%20dashboard.png
+
 The dashboard is designed to support data-driven decision-making by providing clear insights into call volume, revenue generation, and service quality.
 
 🎯 Key Features & KPIs
